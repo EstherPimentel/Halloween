@@ -7,6 +7,7 @@ const Banner = ({children, button2, gif, src}) => {
            
             <button className="btn-button" onClick={button2}>
                 {children}
+                
             </button>
 
         </div>

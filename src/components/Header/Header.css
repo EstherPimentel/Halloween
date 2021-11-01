@@ -2,13 +2,13 @@ header{
     background-color: rgb(14, 0, 0);
     border-top: 1rem black;
     align-items: center;
-    
-    height: 70px;
+    height: 90px;
 
 }
 
 #halloween{
     width: 100px;
+    height: 90px;
     margin-left: 5vw;
     padding-top: 5px;
 }
